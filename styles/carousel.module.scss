@@ -1,0 +1,25 @@
+.carouselButton {
+    button {
+        width: auto;
+    }
+    ul {
+        li {
+            padding: 5px;
+        }
+    }
+}
+
+.article {
+    padding: 5px;
+}
+.content {
+    p {
+        font-size: 15px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    span {
+        font-size: 10px;
+    }
+}
